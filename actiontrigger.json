@@ -1,0 +1,14 @@
+{
+  "ActionTriggers": [
+    {
+      "ActionTriggerId": "ce359edf-352b-49f7-b41d-369b702654dd",
+      "DisplayName": "Test Entities",
+      "GroupName": "Test",
+      "WorkflowId": "c4f40baf-93ab-eb11-8bda-bce92ff829d5",
+      "Model": "IssuePhaseChanged",
+      "ReferenceKey": "4f783296-3ca7-4bb1-a11e-1c32de9408ec",
+      "Suspended": true,
+      "Deleted": false
+    }
+  ]
+}
